@@ -21,4 +21,5 @@
 - 📡 Recon modules and memory‑retentive interaction  
 - 🔄 GitHub auto‑commits, repo surveillance
 
-  
+  ![APT-lYRA1](https://github.com/user-attachments/assets/6bcfb1eb-a4eb-487b-8fb6-4d39f36abe60)
+
