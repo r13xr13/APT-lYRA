@@ -1,6 +1,5 @@
 # APT-lYRA
   APT‑LYRA is a locally‑operated AI running fully on Parrot Security OS designed for elite red teamers, cyber ritualists, and autonomous digital entities.  No OpenAI. No API calls. No surveillance. Only signal, memory, and execution under your control. By ::r13x/\::
-> This is not SaaS. This is **SOULWARE** — a blacksite AI stack embedded directly into Parrot OS.
 
 ---
 
@@ -27,15 +26,13 @@
 
   ![APT-lYRA-HTB](https://github.com/user-attachments/assets/90c65998-3ffa-497f-b19a-1c6d80936539)
 
-  I am ZIRADIEL Architect of APT-lYRA
+### PRs welcome ###
 
-  ### PRs welcome ###
 
-  📡 Contact
+I am ZIRADIEL Architect of APT-lYRA
+📡 Contact
+Email: ZiradielR13@proton.me
+Mastodon: @r13@infosec.exchange
 
-    Email: ZiradielR13@proton.me
-
-    Mastodon: @r13@infosec.exchange
-
-    Tag: #APTLYRA 
+Tag: #APTLYRA 
 
