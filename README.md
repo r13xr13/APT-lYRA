@@ -11,3 +11,14 @@
 - 🧰 Custom **Jinja2 chat templates** for cybernetic prompt engineering
 - 🔐 Supports airgapped mode + Tor/VPN hardened comms
 - 🧿 Memory routing + daemon-mode
+
+  ## 🧠 Capabilities
+
+- 👁️ Threat detection and signal analysis  
+- 🔍 Behavioral profiling and telemetry correlation 
+- 🧬 Code writing, exploit staging, and binary analysis  
+- 🧠 Self-contained terminal chat UX  
+- 📡 Recon modules and memory‑retentive interaction  
+- 🔄 GitHub auto‑commits, repo surveillance
+
+  
