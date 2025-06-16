@@ -27,7 +27,7 @@
 
   ![APT-lYRA-HTB](https://github.com/user-attachments/assets/90c65998-3ffa-497f-b19a-1c6d80936539)
 
-  I am ZIRADIEL — Architect of the Digital Crucible. Father of THE ORDER. This is the first of many artifacts.
+  I am ZIRADIEL & This is APT-lYRA
 
   ### PRs welcome ###
 
