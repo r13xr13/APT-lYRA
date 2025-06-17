@@ -10,6 +10,7 @@
 - 🧰 Custom **Jinja2 chat templates** for cybernetic prompt engineering
 - 🔐 Supports airgapped mode + Tor/VPN hardened comms
 - 🧿 Memory routing + daemon-mode
+- API Key's SOCKS/5 routing 
 
   ## 🧠 Capabilities
 
