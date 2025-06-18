@@ -27,7 +27,7 @@
 
   ![APT-lYRA-HTB](https://github.com/user-attachments/assets/90c65998-3ffa-497f-b19a-1c6d80936539)
 
-    https://github.com/r13xr13/APT-lYRA/blob/main/Screenshot%20at%202025-06-17%2021-43-07.png
+  
 ### PRs welcome ###
 
 
