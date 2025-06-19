@@ -26,8 +26,7 @@
   ![APT-lYRA](https://github.com/user-attachments/assets/3bcb9bde-f274-4985-8ead-a928f15f1eef)
 
   ![APT-lYRA-HTB](https://github.com/user-attachments/assets/90c65998-3ffa-497f-b19a-1c6d80936539)
-
-  
+  ![APT-lYRA](https://github.com/r13xr13/APT-lYRA/blob/main/Lyra%20running%20Scan.png)
 ### PRs welcome ###
 
 
