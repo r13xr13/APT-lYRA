@@ -1,5 +1,7 @@
 # APT-lYRA
-  APT‑LYRA is a locally‑operated AI running fully on Parrot Security OS designed for elite red teamers, cyber ritualists, and autonomous digital entities.  No OpenAI. No surveillance. Only signal, memory, and execution under your control. By ::r13x/\::
+  APT‑LYRA is a locally‑operated AI running fully on Parrot Security OS designed for elite red teamers, cyber ritualists, and autonomous digital entities.  No OpenAI. No surveillance. Only signal, memory, and execution under your control. By r13
+
+##Lyra is a component of a bigger project. However due to popular demand, APT-lYRA will be available for user interaction soon.##
 
 ---
 
