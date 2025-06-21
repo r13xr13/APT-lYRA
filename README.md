@@ -30,7 +30,8 @@
 ### PRs welcome ###
 
 
-I am ZIRADIEL Architect of APT-lYRA
+Built By: r13 
+::r13/\::
 📡 Contact
 
 Email: ZiradielR13@proton.me
