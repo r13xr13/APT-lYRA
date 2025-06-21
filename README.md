@@ -31,7 +31,7 @@
 
 
 Built By: r13 
-::r13/\::
+
 📡 Contact
 
 Email: ZiradielR13@proton.me
